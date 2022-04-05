@@ -2,6 +2,7 @@
      - Grey borders that isn't gonna change
      - In thecenter of in it is a flower
      - Green represents the living 
+     - Living cells chosen randomly by the computer
      
 Rules:
  1 Each cell no neighbors dies, as if by solitude.
